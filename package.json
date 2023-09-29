@@ -17,5 +17,8 @@
     "@types/node": "^20.7.1",
     "eslint": "^8.50.0",
     "nuxt": "^3.7.4"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
